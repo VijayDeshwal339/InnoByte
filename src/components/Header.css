@@ -1,0 +1,11 @@
+.active-link {
+    color: red;
+  }
+  .navbar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }

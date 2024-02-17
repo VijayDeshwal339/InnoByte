@@ -1,0 +1,26 @@
+.Subscribe{
+    font-family: Rubik;
+font-size: 35px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+width:60%;
+}
+.Subscribe1{
+    font-family: Rubik;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color:#4F5665;
+}
+@media screen and (max-width: 768px) {
+    .Subscribe {
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+  
